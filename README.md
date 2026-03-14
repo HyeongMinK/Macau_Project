@@ -1,5 +1,9 @@
 # Mr.BJ — Blackjack AI Tutor Bot
 
+<p align="center">
+  <img src="bj.png" alt="Mr.BJ mascot" width="300"/>
+</p>
+
 An AI-powered Blackjack educational chatbot prototype built during a major field training program at the **University of Macau**. Mr.BJ teaches players how to play Blackjack through interactive, voice-enabled lessons — and emphasizes **responsible gambling** as a core part of the curriculum.
 
 ---
